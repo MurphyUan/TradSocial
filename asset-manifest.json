@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trad-social/static/css/main.073c9b0a.css",
+    "main.js": "/trad-social/static/js/main.731061d6.js",
+    "static/js/787.c689c1ca.chunk.js": "/trad-social/static/js/787.c689c1ca.chunk.js",
+    "static/media/logo.svg": "/trad-social/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trad-social/index.html",
+    "main.073c9b0a.css.map": "/trad-social/static/css/main.073c9b0a.css.map",
+    "main.731061d6.js.map": "/trad-social/static/js/main.731061d6.js.map",
+    "787.c689c1ca.chunk.js.map": "/trad-social/static/js/787.c689c1ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.731061d6.js"
+  ]
+}
